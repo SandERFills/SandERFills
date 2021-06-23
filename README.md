@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandERFills via Vladislav Babich
 - 👀 I’m interested in back-end develop,game-develop and computer science
-- 🌱 I’m currently learning C# and.Net platform,algorithms and development patterns 
+- 🌱 I’m currently learning C# and DotNet platform,algorithms and development patterns 
 - 💞️ I’m looking to collaborate on back-end develiop like junior-programmer
 - 📫 How to reach me https://vk.com/mirt2avra
 
