@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandERFills via Vladislav Babich
 - 👀 I’m interested in back-end develop,game-develop and computer science
 - 🌱 I’m currently learning Python and algorithms ,and development patterns 
-- 💞️ I’m looking to collaborate on back-end develiop like junior-programmer
+- 💞️ I’m looking to collaborate on back-end develiop like middle-programmer
 - 📫 How to reach me https://vk.com/mirt2avra
 
 <!---
